@@ -43,4 +43,4 @@
 
 ## Проект
 
-[Открыть Jupyter Notebook](./notebook/ab-test-analysis.ipynb)
+[Открыть Jupyter Notebook](./notebook/yandex-afisha-analysis.ipynb)
